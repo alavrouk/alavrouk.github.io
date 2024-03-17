@@ -4,12 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Masters student at Georgia Tech, and a Research Science Intern at Lockheed Martin.
+I am a first year Master's student at Georgia Tech. I work under Professor Wei Xu, finding solutions to make multilingual LLMs more relevant to languages other than English.
+
+Professionally, I am a Research Science Intern at Lockheed Martin. I work on low SWaP intelligent applications.
+
+Personally, I enjoy many hobbies, such as reading, amateur radio, video games, and more. I am on the executive board of Georgia Tech's Russian Speaking Association.
+
+Desk: CODA S1183G
 
 ## Research Interests
 
-- **Natural Language Processing:** LLM fairness, propaganda detection, multilingual LLMs, LLM architecture
-- **Neuromorphic Computing:** RF classification, Neuromorphic NLP
+- **Natural Language Processing:** LLM fairness, propaganda detection, multilingual LLMs, SSM based LMs.
+- **Neuromorphic Computing:** RF applications, Neuromorphic NLP.
 
 ## News
 
