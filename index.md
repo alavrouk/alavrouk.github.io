@@ -20,4 +20,6 @@ I am a Masters student at Georgia Tech, and a Research Science Intern at Lockhee
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/teaching.md %}
+
 {% include_relative _includes/services.md %}
