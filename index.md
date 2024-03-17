@@ -4,19 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Masters student at Georgia Tech, and a Research Science Intern at Lockheed Martin.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Natural Language Processing:** LLM fairness, propaganda detection, multilingual LLMs, LLM architecture
+- **Neuromorphic Computing:** RF classification, Neuromorphic NLP
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[March. 2024]** Our paper about multilingual stance detection is accepted to WNUT 2024.
+- **[December. 2023]** I finished my Bachelors in Computer Science (Intelligence/Theory) and started my Masters (Machine Learning) at Georgia Tech.
+- **[August. 2022]** I joined the ![NLP X lab, led by Dr. Wei Xu](.https://cocoxu.github.io/).
+- **[August. 2020]** I started my undergrad at Georgia Tech.
 
 {% include_relative _includes/publications.md %}
 
