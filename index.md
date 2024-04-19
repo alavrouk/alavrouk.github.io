@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first year Master's student at Georgia Tech. I work under [Professor Wei Xu](https://cocoxu.github.io/), finding solutions to make multilingual LLMs more relevant to languages other than English. More casually, I am interested in LLMs as time series predictors.
+I am a first year Master's student at Georgia Tech. I work under [Professor Wei Xu](https://cocoxu.github.io/), finding solutions to make multilingual LLMs more relevant to languages other than English.
 
 Professionally, I am a Research Science Intern at Lockheed Martin. I work on low SWaP intelligent applications.
 
@@ -14,7 +14,7 @@ Desk: CODA S1183G
 
 ## Research Interests
 
-- **Natural Language Processing:** LLM fairness, propaganda detection, multilingual LLMs, SSM based LMs.
+- **Natural Language Processing:** LLM fairness, propaganda detection, multilingual LLMs, SSM based LMs, time series analysis with LLMs.
 - **Neuromorphic Computing:** RF applications, Neuromorphic NLP.
 
 ## News
