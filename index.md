@@ -8,7 +8,7 @@ I am a first year Master's student at Georgia Tech. I work under [Professor Wei 
 
 Professionally, I am a Research Science Intern at Lockheed Martin. I work on low SWaP intelligent applications.
 
-Personally, I enjoy many hobbies, such as reading, amateur radio, video games, and more. I am on the executive board of Georgia Tech's Russian Speaking Association.
+Personally, I enjoy many hobbies, such as reading, amateur radio, working out, and more. I am on the executive board of Georgia Tech's Russian Speaking Association.
 
 Desk: CODA S1183G
 
