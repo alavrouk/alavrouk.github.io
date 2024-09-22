@@ -10,7 +10,7 @@ main:
 
   - title: "ReadMe++: Benchmarking Multilingual Language Models for Multi-Domain Readability Assessment"
     authors: "Tarek Naous, Michael J. Ryan, Anton Lavrouk, Mohit Chandra, Wei Xu"
-    conference_short: Preprint
+    conference_short: EMNLP 2024
     pdf: https://arxiv.org/pdf/2305.14463.pdf
     code: https://github.com/tareknaous/readme
     image: ./assets/img/rm++.png
